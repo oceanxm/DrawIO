@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2023-12-07T02:17:49.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lyYMkcLpaOLNATxuW-7Q" version="21.6.8" type="github">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="39150e848f15840c-1" value="控制系统" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="90" y="160" width="293" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="39150e848f15840c-2" value="执行器" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="725" y="160" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="39150e848f15840c-3" value="加工中心" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="398" y="560" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="39150e848f15840c-4" value="监控上位机" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="152" y="217" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vnPpEXZ0xeqbMR1Bz8NG-1" value="KUKA460机械手" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="820" y="202" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vnPpEXZ0xeqbMR1Bz8NG-13" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.36000162760416665;arrowSize=0.19999969482421875;rotation=-225;" parent="1" vertex="1">
+          <mxGeometry x="369.62" y="311.09" width="60" height="70.76" as="geometry" />
+        </mxCell>
+        <mxCell id="vnPpEXZ0xeqbMR1Bz8NG-14" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="518" y="480" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vnPpEXZ0xeqbMR1Bz8NG-17" value="OKUMA机床" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="493" y="609" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vnPpEXZ0xeqbMR1Bz8NG-18" value="网络信号传输处理系统" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="423" y="370" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vnPpEXZ0xeqbMR1Bz8NG-19" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;网络模块" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
+          <mxGeometry x="433" y="410" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vnPpEXZ0xeqbMR1Bz8NG-20" value="西门子1500" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="563" y="410" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vnPpEXZ0xeqbMR1Bz8NG-21" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.36000162760416665;arrowSize=0.19999969482421875;rotation=45;" parent="1" vertex="1">
+          <mxGeometry x="669.74" y="309.74" width="60" height="68.91" as="geometry" />
+        </mxCell>
+        <mxCell id="vnPpEXZ0xeqbMR1Bz8NG-24" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="921" y="320" width="60" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="vnPpEXZ0xeqbMR1Bz8NG-25" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;机械手根据系统请求进行送料和取料" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="698" y="547" width="262" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vnPpEXZ0xeqbMR1Bz8NG-28" value="自动化产线系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="1" vertex="1">
+          <mxGeometry x="402" y="107" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vnPpEXZ0xeqbMR1Bz8NG-29" value="数据信号传输" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="308" y="351.85" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vnPpEXZ0xeqbMR1Bz8NG-30" value="数据信号传输" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="690" y="348.65000000000003" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vnPpEXZ0xeqbMR1Bz8NG-31" value="数据信号传输" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="548" y="510" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
